@@ -1,0 +1,109 @@
+Manifest-Version: 1.0
+Main-Class: com.curso.Main
+Class-Path: development.jar lcd_aws.jar lcd_db2.jar lcd_e57.jar lcd_ecw.
+ jar lcd_kml.jar lcd_nut.jar lcd_nvg.jar lcd_ows.jar lcd_sld.jar lcd_xml
+ .jar lcd_asdi.jar lcd_core.jar lcd_gdal.jar lcd_gml3.jar lcd_lucy.jar e
+ cw-6.1.0.jar lcd_dimap.jar lcd_earth.jar lcd_lidar.jar lcd_mrsid.jar lc
+ d_mssql.jar hppc-0.7.3.jar jama-1.0.2.jar lcd_filter.jar lcd_oracle.jar
+  lcd_sqlite.jar db2jcc-3.64.jar forms-1.8.0.jar jaxen-1.2.0.jar lcd_ast
+ erix.jar lcd_collada.jar lcd_geospot.jar lcd_mbtiles.jar lcd_saphana.ja
+ r lcd_tiled3d.jar lwjgl-3.3.3.jar s3-2.17.168.jar common-1.8.0.jar lasz
+ ip4j-0.9.jar lcd_bingmaps.jar lcd_dgn_util.jar lcd_geometry.jar lcd_inf
+ ormix.jar lcd_jpeg2000.jar lcd_metadata.jar lcd_realtime.jar lcd_swissd
+ hm.jar arns-2.17.168.jar auth-2.17.168.jar binding-2.0.6.jar jdom2-2.0.
+ 6.1.jar lcd_simulator.jar ngdbc-1.00.68.jar xsom-20110809.jar batik-css
+ -1.17.jar batik-dom-1.17.jar batik-ext-1.17.jar batik-gvt-1.17.jar bati
+ k-xml-1.17.jar lcd_csw_client.jar lcd_lightspeed.jar lcd_panoramics.jar
+  lcd_postgresql.jar lcd_wcs_client.jar lcd_wcs_common.jar lcd_wfs_clien
+ t.jar lcd_wfs_common.jar lcd_wms_client.jar lcd_wms_common.jar utils-2.
+ 17.168.jar batik-anim-1.17.jar batik-i18n-1.17.jar batik-util-1.17.jar 
+ httpcore-4.4.13.jar httpmime-4.5.13.jar ifxjdbc-3.00JC1.jar jts-core-1.
+ 19.0.jar lcd_annotations.jar lcd_wmts_client.jar lcd_wmts_common.jar sd
+ oapi-12.2.0.1.jar slf4j-api-2.0.9.jar stax2-api-4.2.1.jar batik-codec-1
+ .17.jar batik-swing-1.17.jar geodetic-3.00JC1.jar ifxjdbcx-3.00JC1.jar 
+ jide-dock-3.7.11.jar jide-plaf-3.7.11.jar lwjgl-jawt-3.3.3.jar ojdbc8-1
+ 9.12.0.0.jar PngEncoder-2.0.2.jar regions-2.17.168.jar aws-core-2.17.16
+ 8.jar batik-bridge-1.17.jar batik-parser-1.17.jar batik-script-1.17.jar
+  batik-svggen-1.17.jar commons-io-2.15.1.jar eventstream-1.0.1.jar http
+ client-4.5.13.jar lcd_fusion_client.jar lcd_fusion_engine.jar lcd_geosp
+ atialpdf.jar postgresql-42.7.3.jar profiles-2.17.168.jar sdk-core-2.17.
+ 168.jar spring-boot-3.3.5.jar spring-web-6.1.14.jar batik-svg-dom-1.17.
+ jar commons-codec-1.11.jar glu-tess-1.0.lcd-3.jar jide-common-3.7.11.ja
+ r lcd_epsg_resources.jar lcd_filter_spatial.jar lcd_lucy_symbology.jar 
+ lcd_opengl_binding.jar lwjgl-opencl-3.3.3.jar lwjgl-opengl-3.3.3.jar sp
+ ring-core-6.1.14.jar swingx-all-1.6.5-1.jar batik-awt-util-1.17.jar bat
+ ik-gui-util-1.17.jar checker-qual-3.42.0.jar commons-logging-1.2.jar ja
+ ckson-core-2.15.3.jar json-utils-2.17.168.jar lcd_geoid_resources.jar l
+ ibgdal-3.8.3.lcd-3.jar slf4j-simple-2.0.16.jar vectormath-1.2-1.14.jar 
+ woodstox-core-6.5.1.jar xml-apis-ext-1.3.04.jar annotations-2.17.168.ja
+ r batik-constants-1.17.jar commons-lang3-3.14.0.jar jai_core-1.1.4.lcd-
+ 8.jar Java-WebSocket-1.5.7.jar lcd_informix_spatial.jar lcd_oracle_geor
+ aster.jar metrics-spi-2.17.168.jar protobuf-java-3.25.3.jar sqlitej-3.3
+ 6.0.lcd-2.jar stompjms-client-1.19.jar tbb-2.0-native.linux.jar tbb-2.0
+ -native.win32.jar tbb-2.0-native.win64.jar batik-transcoder-1.17.jar cr
+ t-12.0-native.win64.jar jai_codec-1.1.4.lcd-8.jar lcd_core-native.win32
+ .jar lcd_core-native.win64.jar libdraco-1.4.1.lcd-13.jar mssql-jdbc-7.2
+ .1.jre8.jar spring-context-6.1.14.jar apache-client-2.17.168.jar ecw-6.
+ 1.0-native.win32.jar ecw-6.1.0-native.win64.jar jai_imageio-1.2.lcd-23.
+ jar lcd_military_symbology.jar micrometer-core-1.13.6.jar protocol-core
+ -2.17.168.jar reactive-streams-1.0.3.jar tbb-2.0-native.linux64.jar com
+ mons-compress-1.26.0.jar httpclient-cache-4.5.13.jar icepdf-core-5.1.1.
+ lcd-9.jar jackson-databind-2.15.3.jar spring-messaging-6.1.14.jar sprin
+ g-websocket-6.1.14.jar swingx-beaninfo-1.6.5-1.jar tbb-2.0-native.macos
+ _64.jar xmlgraphics-commons-2.9.jar ecw-6.1.0-native.linux64.jar http-c
+ lient-spi-2.17.168.jar lcd_opengl_binding_lwjgl.jar relaxngDatatype-200
+ 20414.jar aws-xml-protocol-2.17.168.jar ecw-6.1.0-native.macos_64.jar l
+ wjgl-3.3.3-natives-linux.jar lwjgl-3.3.3-natives-macos.jar micrometer-c
+ ommons-1.13.6.jar jackson-annotations-2.15.3.jar jts_extension-1.19.0.l
+ cd-5.jar aws-query-protocol-2.17.168.jar batik-shared-resources-1.17.ja
+ r clibwrapper_jiio-1.2.lcd-23.jar jakarta.websocket-api-2.2.0.jar lcdut
+ il-1.0.16-native.linux.jar lcdutil-1.0.16-native.win32.jar lcdutil-1.0.
+ 16-native.win64.jar lwjgl-3.3.3-natives-windows.jar mlibwrapper_jai-1.1
+ .4.lcd-8.jar jai-1.1.4.lcd-8-native.linux.jar jai-1.1.4.lcd-8-native.wi
+ n32.jar mrsid-1.0.lcd-8-native.win32.jar mrsid-1.0.lcd-8-native.win64.j
+ ar geos-3.5.0.lcd-3-native.linux.jar geos-3.5.0.lcd-3-native.win32.jar 
+ geos-3.5.0.lcd-3-native.win64.jar lcdutil-1.0.16-native.linux64.jar lib
+ gdal-resources-3.8.3.lcd-3.jar micrometer-observation-1.13.6.jar tyrus-
+ standalone-client-2.2.0.jar jai-1.1.4.lcd-8-native.linux64.jar lcdutil-
+ 1.0.16-native.macos_64.jar mrsid-1.0.lcd-8-native.linux64.jar geos-3.5.
+ 0.lcd-3-native.linux64.jar jpeg2000-1.0.lcd-1-native.linux.jar jpeg2000
+ -1.0.lcd-1-native.win32.jar jpeg2000-1.0.lcd-1-native.win64.jar lcd_ope
+ ngl_binding-native.win32.jar lcd_opengl_binding-native.win64.jar lwjgl-
+ 3.3.3-natives-linux-arm64.jar lwjgl-3.3.3-natives-macos-arm64.jar mrsid
+ -1.0.lcd-8-native.macos_64.jar geos-3.5.0.lcd-3-native.macos_64.jar lcd
+ _military_symbology_resources.jar libgdal-3.8.3.lcd-3-native.win64.jar 
+ libgpkg-1.0.1.lcd-2-native.linux.jar libgpkg-1.0.1.lcd-2-native.win32.j
+ ar libgpkg-1.0.1.lcd-2-native.win64.jar lwjgl-opengl-3.3.3-natives-linu
+ x.jar lwjgl-opengl-3.3.3-natives-macos.jar jpeg2000-1.0.lcd-1-native.li
+ nux64.jar lwjgl-3.3.3-natives-windows-arm64.jar sqlitej-3.36.0.lcd-2-na
+ tive.linux.jar sqlitej-3.36.0.lcd-2-native.win32.jar sqlitej-3.36.0.lcd
+ -2-native.win64.jar third-party-jackson-core-2.17.168.jar tyrus-standal
+ one-client-jdk-2.2.0.jar jakarta.websocket-client-api-2.2.0.jar jpeg200
+ 0-1.0.lcd-1-native.macos_64.jar libdraco-1.4.1.lcd-13-native.win32.jar 
+ libdraco-1.4.1.lcd-13-native.win64.jar libgdal-3.8.3.lcd-3-native.linux
+ 64.jar libgpkg-1.0.1.lcd-2-native.linux64.jar lwjgl-opengl-3.3.3-native
+ s-windows.jar jai_imageio-1.2.lcd-23-native.linux.jar jai_imageio-1.2.l
+ cd-23-native.win32.jar libgdal-3.8.3.lcd-3-native.macos_64.jar libgpkg-
+ 1.0.1.lcd-2-native.macos_64.jar spatialite-4.3.0.lcd-6-native.linux.jar
+  spatialite-4.3.0.lcd-6-native.win32.jar spatialite-4.3.0.lcd-6-native.
+ win64.jar sqlitej-3.36.0.lcd-2-native.linux64.jar libdraco-1.4.1.lcd-13
+ -native.linux64.jar org.eclipse.paho.client.mqttv3-1.2.5.jar sqlitej-3.
+ 36.0.lcd-2-native.macos_64.jar jai_imageio-1.2.lcd-23-native.linux64.ja
+ r libdraco-1.4.1.lcd-13-native.macos_64.jar ltidsdk-9.5.4.4709.lcd-1-na
+ tive.win32.jar ltidsdk-9.5.4.4709.lcd-1-native.win64.jar spatialite-4.3
+ .0.lcd-6-native.linux64.jar lwjgl-opengl-3.3.3-natives-linux-arm64.jar 
+ lwjgl-opengl-3.3.3-natives-macos-arm64.jar spatialite-4.3.0.lcd-6-nativ
+ e.macos_64.jar ltidsdk-9.5.4.4709.lcd-1-native.linux64.jar ltidsdk-9.5.
+ 4.4709.lcd-1-native.macos_64.jar lwjgl-opengl-3.3.3-natives-windows-arm
+ 64.jar libdraco-1.4.1.lcd-13-native.macos_64_arm.jar stream-application
+ s-micrometer-common-5.0.0.jar app-starters-micrometer-common-2.1.6.RELE
+ ASE.jar gson-2.11.0.jar spring-boot-3.3.5.jar spring-web-6.1.14.jar spr
+ ing-core-6.1.14.jar slf4j-simple-2.0.16.jar Java-WebSocket-1.5.7.jar st
+ ompjms-client-1.19.jar spring-context-6.1.14.jar micrometer-core-1.13.6
+ .jar spring-messaging-6.1.14.jar spring-websocket-6.1.14.jar micrometer
+ -commons-1.13.6.jar jakarta.websocket-api-2.2.0.jar micrometer-observat
+ ion-1.13.6.jar tyrus-standalone-client-2.2.0.jar tyrus-standalone-clien
+ t-jdk-2.2.0.jar jakarta.websocket-client-api-2.2.0.jar org.eclipse.paho
+ .client.mqttv3-1.2.5.jar stream-applications-micrometer-common-5.0.0.ja
+ r app-starters-micrometer-common-2.1.6.RELEASE.jar
+
